@@ -1,3 +1,5 @@
+## Welcome to LBU's automated car parking systems dashboard 
+
 ### TOC
 - [Built With](#built-with)
 - [Changelog](#changelog)
